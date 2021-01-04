@@ -80,4 +80,4 @@ Tobias Günther [en]
 - [First Aid Git - Коллекция часто задаваемых вопросов по Git с возможностью поиска](http://firstaidgit.ru/) 
 - [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md) [en]
-- [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique/20869747002b5bfec2342d6495856ced)
+- [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
