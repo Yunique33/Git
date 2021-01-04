@@ -37,7 +37,7 @@ Tobias Günther [en]
 [codecademy](https://www.codecademy.com/) [en] [$]
 
 ### Курсы
-- [Git. Быстрый старт](https://geekbrains.ru/courses/66) - курс от [geekbrains.ru](https://geekbrains.ru)
+- [Git. Быстрый старт](https://geekbrains.ru/courses/1117) - курс от [geekbrains.ru](https://geekbrains.ru)
 - [Курс по Git и Github](https://webformyself.com/category/premium/javascript-premium/gitpremium/) от 
 [WebForMySelf](https://webformyself.com/) [$]
 - [Курс: Изучаем Git И GitHub](https://swiftbook.ru/contents/git-and-github/) от [Swiftbook](https://swiftbook.ru/) [$]
@@ -80,4 +80,7 @@ Tobias Günther [en]
 - [First Aid Git - Коллекция часто задаваемых вопросов по Git с возможностью поиска](http://firstaidgit.ru/) 
 - [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md) [en]
+
+### Настройки
 - [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
+- [Обновление версии Git для Linux(Ubuntu/Mint)](https://gist.github.com/Yunique33/048ba5153dee39859216ce3b6a15b7cc)
