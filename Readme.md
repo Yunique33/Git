@@ -27,7 +27,7 @@ Tobias Günther [en]
 - [Conversational Git](http://blog.anvard.org/conversational-git/) by Alan Hohn [en]
 - [Becomea git guru](https://www.atlassian.com/git/tutorials) by [Bitbucket](https://bitbucket.org/) [en]
 - [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) by John Wiegley [en]
-- [Git Workflows](http://documentup.com/skwp/git-workflows-book) by Yan Pritzker [en]
+- [Git Workflows](https://github.com/skwp/git-workflows-book) by Yan Pritzker [en]
 - [A Guide to Git and Github](https://launchschool.com/books/git) by [Launch School](https://launchschool.com/) [en]
 
 ### Интерактивные ресурсы
