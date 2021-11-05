@@ -68,6 +68,8 @@ Tobias Günther [en]
 [itProger](https://itproger.com/course/one-lesson/6)
 - [Basics of Git](https://www.youtube.com/playlist?list=PLAkMqlQoeMegAgYKT-Ij20WMaF28mXHmc) by 
 [The Digital Craft](https://thedigitalcraft.com/) [en]
+- [Уроки Git+GitHub](https://www.youtube.com/watch?v=JdUzxh8miQw&list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH) от 
+[ITDoctor](https://www.youtube.com/c/ITDoctor)
 
 
 ### Подкасты
