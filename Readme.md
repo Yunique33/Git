@@ -76,7 +76,7 @@ Tobias Günther [en]
 - [GitMinutes](http://www.gitminutes.com/) [en]
 
 ### Статьи
-- [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/)
+- [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/) от Vincent Driessen
 
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
