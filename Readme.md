@@ -21,7 +21,7 @@ Tobias Günther [en]
 - [Git Immersion](http://gitimmersion.com/)
 - [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) by Ben Lynn
 - [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html) by [Roger Dudler](https://twitter.com/rogerdudler)
-- [Git: наглядная справка](http://marklodato.github.io/visual-git-guide/index-ru.html)
+- [Git: наглядная справка](http://marklodato.github.io/visual-git-guide/index-ru.html) by Mark Lodato
 - [Руководство по Git](http://proselyte.net/tutorials/git) - Евгений Сулейманов
 - [Справочник по Git](https://guides.github.com/introduction/git-handbook/) от [GitHub](https://github.com/) [en]
 - [Conversational Git](http://blog.anvard.org/conversational-git/) by Alan Hohn [en]
