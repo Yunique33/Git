@@ -18,7 +18,7 @@ Tobias Günther [en]
 
 ### Обучающие ресурсы
 - [GitHowTo](https://githowto.com/ru)
-- [Git Immersion](http://gitimmersion.com/)
+- [Git Immersion](http://gitimmersion.com/)[en]
 - [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) by Ben Lynn
 - [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html) by [Roger Dudler](https://twitter.com/rogerdudler)
 - [Git: наглядная справка](http://marklodato.github.io/visual-git-guide/index-ru.html) by Mark Lodato
