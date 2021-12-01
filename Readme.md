@@ -6,7 +6,7 @@
 - [Git In The Trenches](http://cbx33.github.io/gitt/download.html) by Peter Savage [en]
 - [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) by 
 Scott Chacon [en]
-- [Version Control with Git](http://shop.oreilly.com/product/0636920022862.do) [en] [$]
+- [Version Control with Git](http://shop.oreilly.com/product/0636920022862.do) by Jon Loeliger, Matthew McCullough [en] [$]
 - [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972.do) [en] [$]
 - [Git Succinctly](https://www.syncfusion.com/ebooks/git) by Ryan Hodson [en]
 - [Git in Practice](https://www.manning.com/books/git-in-practice) by Mike McQuaid [en] [$]
