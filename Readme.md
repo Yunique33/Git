@@ -7,7 +7,7 @@
 - [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) by 
 Scott Chacon [en]
 - [Version Control with Git](http://shop.oreilly.com/product/0636920022862.do) by Jon Loeliger, Matthew McCullough [en] [$]
-- [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972.do) [en] [$]
+- [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972.do) by Richard E. Silverman [en] [$]
 - [Git Succinctly](https://www.syncfusion.com/ebooks/git) by Ryan Hodson [en]
 - [Git in Practice](https://www.manning.com/books/git-in-practice) by Mike McQuaid [en] [$]
 - [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) by Michael Hartl [en]
