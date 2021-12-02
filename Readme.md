@@ -43,7 +43,7 @@ Tobias Günther [en]
 - [Курс: Изучаем Git И GitHub](https://swiftbook.ru/contents/git-and-github/) от [Swiftbook](https://swiftbook.ru/)
 - [Основы использования Git](https://itvdn.com/ru/video/basics-using-git) от [ITVDN](https://itvdn.com/ru) [$]
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/) by
-[FrontendMasters](https://frontendmasters.com/) [en]
+[FrontendMasters](https://frontendmasters.com/) [en] [$]
  - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) from 
  [Udacity](https://www.udacity.com/) [en]
  - [Practical Git for Everyday Professional Use](https://egghead.io/courses/practical-git-for-everyday-professional-use)
