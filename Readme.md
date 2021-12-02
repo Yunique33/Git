@@ -7,6 +7,7 @@
 - [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) by 
 Scott Chacon [en]
 - [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) by John Wiegley [en]
+- [Conversational Git](http://blog.anvard.org/conversational-git/) by Alan Hohn [en]
 - [Version Control with Git](http://shop.oreilly.com/product/0636920022862.do) by Jon Loeliger, Matthew McCullough [en] [$]
 - [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972.do) by Richard E. Silverman [en] [$]
 - [Git Succinctly](https://www.syncfusion.com/ebooks/git) by Ryan Hodson [en]
@@ -23,7 +24,6 @@ Scott Chacon [en]
 - [Git: наглядная справка](http://marklodato.github.io/visual-git-guide/index-ru.html) by Mark Lodato
 - [Руководство по Git](http://proselyte.net/tutorials/git) - Евгений Сулейманов
 - [Справочник по Git](https://guides.github.com/introduction/git-handbook/) от [GitHub](https://github.com/) [en]
-- [Conversational Git](http://blog.anvard.org/conversational-git/) by Alan Hohn [en]
 - [Becomea git guru](https://www.atlassian.com/git/tutorials) by [Bitbucket](https://bitbucket.org/) [en]
 - [Git Workflows](https://github.com/skwp/git-workflows-book) by Yan Pritzker [en]
 - [A Guide to Git and Github](https://launchschool.com/books/git) by [Launch School](https://launchschool.com/) [en]
