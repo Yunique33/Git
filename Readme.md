@@ -38,6 +38,8 @@ Tobias Günther [en]
 
 ### Курсы
 - [Git. Быстрый старт](https://geekbrains.ru/courses/1117) - курс от [geekbrains.ru](https://geekbrains.ru)
+- [Курc по Git](https://learn.javascript.ru/screencast/git#skip-add) от 
+[Ильи Кантора](https://learn.javascript.ru/)
 - [Курс по Git и Github](https://webformyself.com/category/premium/javascript-premium/gitpremium/) от 
 [WebForMySelf](https://webformyself.com/) [$]
 - [Курс: Изучаем Git И GitHub](https://swiftbook.ru/contents/git-and-github/) от [Swiftbook](https://swiftbook.ru/)
@@ -56,8 +58,6 @@ Tobias Günther [en]
  [Udemy](https://www.udemy.com/) [en] [$]
 
 ### Скринкасты
-- [Скринкаст по Git](https://learn.javascript.ru/screencast/git#skip-add) от 
-[Ильи Кантора](https://learn.javascript.ru/)
 - [Git - для новичков](https://www.youtube.com/watch?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&v=PEKN8NtBDQ0) от 
 [LoftBlog](https://loftblog.ru/)
 - [Базовый курс по Git](https://www.youtube.com/watch?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR&v=en6gms6e54Q) от
