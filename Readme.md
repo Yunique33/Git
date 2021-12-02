@@ -16,6 +16,7 @@ Scott Chacon [en]
 [$]
 
 ### Обучающие ресурсы
+- [GitHowTo](https://githowto.com/ru)
 - [Git Immersion](http://gitimmersion.com/)[en]
 - [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) by Ben Lynn
 - [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html) by [Roger Dudler](https://twitter.com/rogerdudler)
@@ -30,7 +31,6 @@ Scott Chacon [en]
 Tobias Günther [en]
 
 ### Интерактивные ресурсы
-- [GitHowTo](https://githowto.com/ru)
 - [LearnGitBranching](https://learngitbranching.js.org/)
 - [GitHub Learning Lab](https://lab.github.com/) - интерактивный курс от [GitHub](https://github.com/) [en]
 - [Learn Git](https://www.codecademy.com/learn/learn-git#course-landing-page) by 
