@@ -12,8 +12,6 @@ Scott Chacon [en]
 - [Git Succinctly](https://www.syncfusion.com/ebooks/git) by Ryan Hodson [en]
 - [Git in Practice](https://www.manning.com/books/git-in-practice) by Mike McQuaid [en] [$]
 - [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) by Michael Hartl [en] [$]
-- [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) by 
-Tobias Günther [en]
 - [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) by Rick Umali [en]
 [$]
 
@@ -29,6 +27,8 @@ Tobias Günther [en]
 - [Becomea git guru](https://www.atlassian.com/git/tutorials) by [Bitbucket](https://bitbucket.org/) [en]
 - [Git Workflows](https://github.com/skwp/git-workflows-book) by Yan Pritzker [en]
 - [A Guide to Git and Github](https://launchschool.com/books/git) by [Launch School](https://launchschool.com/) [en]
+- [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) by 
+Tobias Günther [en]
 
 ### Интерактивные ресурсы
 - [LearnGitBranching](https://learngitbranching.js.org/)
