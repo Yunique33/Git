@@ -67,7 +67,7 @@ Tobias Günther [en]
 - [Git. Система контроля версий](https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g) от
 [Дмитрия Афанасьева](https://www.youtube.com/channel/UCLwG2LUXE5-o5q-8uvlV1ig)
 - [Изучение GitHub в одном видео уроке за 15 минут!](https://itproger.com/course/one-lesson/6) от
-[itProger](https://itproger.com/course/one-lesson/6)
+[itProger](https://itproger.com/)
 - [Basics of Git](https://www.youtube.com/playlist?list=PLAkMqlQoeMegAgYKT-Ij20WMaF28mXHmc) by 
 [The Digital Craft](https://thedigitalcraft.com/) [en]
 - [Уроки Git+GitHub](https://www.youtube.com/watch?v=JdUzxh8miQw&list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH) от 
