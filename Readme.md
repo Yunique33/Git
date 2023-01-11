@@ -37,6 +37,7 @@ Tobias Günther [en]
 [codecademy](https://www.codecademy.com/) [en] [$]
 
 ### Курсы
+- [Введение в Git](https://ru.hexlet.io/courses/intro_to_git) - курс от [Хекслет](https://ru.hexlet.io/)
 - [Git. Быстрый старт](https://geekbrains.ru/courses/1117) - курс от [geekbrains.ru](https://geekbrains.ru)
 - [Курc по Git](https://learn.javascript.ru/screencast/git#skip-add) от 
 [Ильи Кантора](https://learn.javascript.ru/)
