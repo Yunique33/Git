@@ -80,6 +80,7 @@ Tobias Günther [en]
 
 ### Статьи
 - [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/) от Vincent Driessen
+- [Что такое Git и для чего он нужен](https://guides.hexlet.io/ru/git-guide/) от [Хекслет](https://ru.hexlet.io/)
 
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
