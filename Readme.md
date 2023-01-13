@@ -86,6 +86,7 @@ Tobias Günther [en]
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
 
 ### Другое
+- [Соглашение по именованию коммитов](https://www.conventionalcommits.org/ru/v1.0.0/)
 - [First Aid Git - Коллекция часто задаваемых вопросов по Git с возможностью поиска](http://firstaidgit.ru/) 
 - [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md) [en]
