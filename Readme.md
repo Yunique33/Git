@@ -32,7 +32,7 @@ Tobias Günther [en]
 
 ### Интерактивные ресурсы
 - [LearnGitBranching](https://learngitbranching.js.org/)
-- [GitHub Learning Lab]([https://lab.github.com/](https://github.com/apps/github-learning-lab)) - интерактивный курс от [GitHub](https://github.com/) [en]
+- [GitHub Learning Lab](https://github.com/apps/github-learning-lab) - интерактивный курс от [GitHub](https://github.com/) [en]
 - [Learn Git](https://www.codecademy.com/learn/learn-git#course-landing-page) by 
 [codecademy](https://www.codecademy.com/) [en] [$]
 
