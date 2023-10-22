@@ -59,6 +59,7 @@ Tobias Günther [en]
  [Udemy](https://www.udemy.com/) [en] [$]
  - [Введение в Git: настройка и основные команды](https://selectel.ru/blog/tutorials/git-setup-and-common-commands/) от
 [Selectel](https://selectel.ru/)
+ - [Основы работы с Git](https://practicum.yandex.ru/git-basics/) от [Яндекс Практикум](https://practicum.yandex.ru/)
 
 ### Скринкасты
 - [Git - для новичков](https://www.youtube.com/watch?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&v=PEKN8NtBDQ0) от 
@@ -85,6 +86,9 @@ Tobias Günther [en]
 - [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/) от Vincent Driessen
 - [Что такое Git и для чего он нужен](https://guides.hexlet.io/ru/git-guide/) от [Хекслет](https://ru.hexlet.io/)
 - [Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message) от [Хекслет](https://ru.hexlet.io/)
+- [Git для новичков](https://habr.com/ru/articles/541258/) от [@freshds](https://habr.com/ru/users/freshds/)
+- [Работаем с Git: первые шаги в GitHub](https://habr.com/ru/companies/yandex_praktikum/articles/700708/) от Дарьи Меленцовой
+- [Работаем с Git: трудовые будни](https://habr.com/ru/companies/yandex_praktikum/articles/728302/) от Дарьи Меленцовой
 
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
