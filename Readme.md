@@ -78,6 +78,7 @@ Tobias Günther [en]
 [ITDoctor](https://www.youtube.com/c/ITDoctor)
 - [Что такое Git за 8 минут: Объясняем на пальцах](https://www.youtube.com/watch?v=G4f9OH4IQE8&ab_channel=ListenIT) от
 [Listen IT](https://www.youtube.com/@ListenIT_channel)
+- [Что такое GIT простым языком? Как работает, основные команды GIT](https://youtu.be/buygCuSqBsA?si=I-9ws6ml55iDMlMB) от [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat)
 
 ### Подкасты
 - [GitMinutes](http://www.gitminutes.com/) [en]
