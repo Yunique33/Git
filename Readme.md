@@ -57,6 +57,8 @@ Tobias Günther [en]
  [Codecourse](https://codecourse.com/) [en] [$]
  - [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete/) by
  [Udemy](https://www.udemy.com/) [en] [$]
+ - [Введение в Git: настройка и основные команды](https://selectel.ru/blog/tutorials/git-setup-and-common-commands/) от
+[Selectel](https://selectel.ru/)
 
 ### Скринкасты
 - [Git - для новичков](https://www.youtube.com/watch?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&v=PEKN8NtBDQ0) от 
