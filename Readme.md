@@ -2,13 +2,15 @@
 
 ### Книги
 - [Pro Git](http://git-scm.com/book/ru/v2) by Scott Chacon and Ben Straub
-- [Git для профессионального программиста](https://www.ozon.ru/context/detail/id/147725679/) - С.Чакон, Б.Штрауб [$] (_printed version of [Pro Git](http://git-scm.com/book/ru/v2)_) 
+- [Git для профессионального программиста](https://www.ozon.ru/context/detail/id/147725679/) - С.Чакон, Б.Штрауб [$] 
+(_printed version of [Pro Git](http://git-scm.com/book/ru/v2)_) 
 - [Git In The Trenches](http://cbx33.github.io/gitt/download.html) by Peter Savage [en]
 - [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) by 
 Scott Chacon [en]
 - [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) by John Wiegley [en]
 - [Conversational Git](http://blog.anvard.org/conversational-git/) by Alan Hohn [en]
-- [Version Control with Git](http://shop.oreilly.com/product/0636920022862.do) by Jon Loeliger, Matthew McCullough [en] [$]
+- [Version Control with Git](http://shop.oreilly.com/product/0636920022862.do) by Jon Loeliger, Matthew McCullough [en] 
+[$]
 - [Git Pocket Guide](http://shop.oreilly.com/product/0636920024972.do) by Richard E. Silverman [en] [$]
 - [Git Succinctly](https://www.syncfusion.com/ebooks/git) by Ryan Hodson [en]
 - [Git in Practice](https://www.manning.com/books/git-in-practice) by Mike McQuaid [en] [$]
@@ -20,7 +22,8 @@ Scott Chacon [en]
 - [GitHowTo](https://githowto.com/ru)
 - [Git Immersion](http://gitimmersion.com/)[en]
 - [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) by Ben Lynn
-- [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html) by [Roger Dudler](https://twitter.com/rogerdudler)
+- [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html) by 
+[Roger Dudler](https://twitter.com/rogerdudler)
 - [Git: наглядная справка](http://marklodato.github.io/visual-git-guide/index-ru.html) by Mark Lodato
 - [Руководство по Git](http://proselyte.net/tutorials/git) - Евгений Сулейманов
 - [Справочник по Git](https://guides.github.com/introduction/git-handbook/) от [GitHub](https://github.com/) [en]
@@ -32,7 +35,8 @@ Tobias Günther [en]
 
 ### Интерактивные ресурсы
 - [LearnGitBranching](https://learngitbranching.js.org/)
-- [GitHub Learning Lab](https://github.com/apps/github-learning-lab) - интерактивный курс от [GitHub](https://github.com/) [en]
+- [GitHub Learning Lab](https://github.com/apps/github-learning-lab) - интерактивный курс от 
+[GitHub](https://github.com/) [en]
 - [Learn Git](https://www.codecademy.com/learn/learn-git#course-landing-page) by 
 [codecademy](https://www.codecademy.com/) [en] [$]
 
@@ -78,12 +82,16 @@ Tobias Günther [en]
 [ITDoctor](https://www.youtube.com/c/ITDoctor)
 - [Что такое Git за 8 минут: Объясняем на пальцах](https://www.youtube.com/watch?v=G4f9OH4IQE8&ab_channel=ListenIT) от
 [Listen IT](https://www.youtube.com/@ListenIT_channel)
-- [Что такое GIT простым языком? Как работает, основные команды GIT](https://youtu.be/buygCuSqBsA?si=I-9ws6ml55iDMlMB) от [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat)
+- [Что такое GIT простым языком? Как работает, основные команды GIT](https://youtu.be/buygCuSqBsA?si=I-9ws6ml55iDMlMB) 
+от [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat)
 
 ### Лекции
-- [Факультатив "Git"](https://www.youtube.com/watch?v=pkjarFNyVGE) от [Young&&Yandex](https://www.youtube.com/@Young_and_Yandex)
-- [Git — инструмент для совместной работы с нуля и до регламента в команде](https://www.youtube.com/watch?v=XfpNNPo5ypk) от Александра Васильева
-- [Git for beginners](https://www.youtube.com/watch?v=6i0Wg-Pohg8) от [Rolling Scopes School](https://www.youtube.com/@RollingScopesSchool)
+- [Факультатив "Git"](https://www.youtube.com/watch?v=pkjarFNyVGE) от 
+[Young&&Yandex](https://www.youtube.com/@Young_and_Yandex)
+- [Git — инструмент для совместной работы с нуля и до регламента в команде](https://www.youtube.com/watch?v=XfpNNPo5ypk) 
+от Александра Васильева
+- [Git for beginners](https://www.youtube.com/watch?v=6i0Wg-Pohg8) от 
+[Rolling Scopes School](https://www.youtube.com/@RollingScopesSchool)
 
 ### Подкасты
 - [GitMinutes](http://www.gitminutes.com/) [en]
@@ -91,9 +99,11 @@ Tobias Günther [en]
 ### Статьи
 - [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/) от Vincent Driessen
 - [Что такое Git и для чего он нужен](https://guides.hexlet.io/ru/git-guide/) от [Хекслет](https://ru.hexlet.io/)
-- [Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message) от [Хекслет](https://ru.hexlet.io/)
+- [Как правильно составлять описания коммитов и почему это важно](https://ru.hexlet.io/blog/posts/git-commit-message) 
+от [Хекслет](https://ru.hexlet.io/)
 - [Git для новичков](https://habr.com/ru/articles/541258/) от [@freshds](https://habr.com/ru/users/freshds/)
-- [Работаем с Git: первые шаги в GitHub](https://habr.com/ru/companies/yandex_praktikum/articles/700708/) от Дарьи Меленцовой
+- [Работаем с Git: первые шаги в GitHub](https://habr.com/ru/companies/yandex_praktikum/articles/700708/) от 
+Дарьи Меленцовой
 - [Работаем с Git: трудовые будни](https://habr.com/ru/companies/yandex_praktikum/articles/728302/) от Дарьи Меленцовой
 
 ### Тесты для самопроверки
