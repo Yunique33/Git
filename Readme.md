@@ -80,6 +80,11 @@ Tobias Günther [en]
 [Listen IT](https://www.youtube.com/@ListenIT_channel)
 - [Что такое GIT простым языком? Как работает, основные команды GIT](https://youtu.be/buygCuSqBsA?si=I-9ws6ml55iDMlMB) от [Мир IT с Антоном Павленко](https://www.youtube.com/@pavlenkoat)
 
+### Лекции
+- [Факультатив "Git"](https://www.youtube.com/watch?v=pkjarFNyVGE) от [Young&&Yandex](https://www.youtube.com/@Young_and_Yandex)
+- [Git — инструмент для совместной работы с нуля и до регламента в команде](https://www.youtube.com/watch?v=XfpNNPo5ypk) от Александра Васильева
+- [Git for beginners](https://www.youtube.com/watch?v=6i0Wg-Pohg8) от [Rolling Scopes School](https://www.youtube.com/@RollingScopesSchool)
+
 ### Подкасты
 - [GitMinutes](http://www.gitminutes.com/) [en]
 
