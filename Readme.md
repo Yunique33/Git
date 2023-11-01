@@ -109,18 +109,18 @@ Tobias Günther [en]
 - [Фундаментальные подходы при работе с Git](https://habr.com/ru/articles/765264/) от 
 Ярослава [@webnetkz](https://habr.com/ru/users/webnetkz/)
 
-### Ошибки
-- [Самые распространенные ошибки в работе с git. Как исправить?](https://www.youtube.com/watch?v=2aTc37XwSj0) от 
-[Front-end Science із Сергієм Пузанковим](https://www.youtube.com/@frontendscience)
-- [Git: распространённые ошибки и способы их исправления](https://habr.com/ru/companies/ruvds/articles/423015/) от 
-[RUVDS.com](https://ruvds.com/)
-- [Git happens! 6 типичных ошибок Git и как их исправить](https://habr.com/ru/companies/flant/articles/419733/) от 
-[Флант](https://habr.com/ru/companies/flant/profile/)
-- [Git Tutorial: 10 Common Git Problems and How to Fix Them](https://www.codementor.io/@citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd) 
-from [Michael Kohl](https://www.codementor.io/@citizen428) [en]
-
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
+
+### Ошибки
+- [Самые распространенные ошибки в работе с git. Как исправить?](https://www.youtube.com/watch?v=2aTc37XwSj0) от
+  [Front-end Science із Сергієм Пузанковим](https://www.youtube.com/@frontendscience)
+- [Git: распространённые ошибки и способы их исправления](https://habr.com/ru/companies/ruvds/articles/423015/) от
+  [RUVDS.com](https://ruvds.com/)
+- [Git happens! 6 типичных ошибок Git и как их исправить](https://habr.com/ru/companies/flant/articles/419733/) от
+  [Флант](https://habr.com/ru/companies/flant/profile/)
+- [Git Tutorial: 10 Common Git Problems and How to Fix Them](https://www.codementor.io/@citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
+  from [Michael Kohl](https://www.codementor.io/@citizen428) [en]
 
 ### Другое
 - [Соглашение по именованию коммитов](https://www.conventionalcommits.org/ru/v1.0.0/)
