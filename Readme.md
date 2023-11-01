@@ -117,6 +117,7 @@ Tobias Günther [en]
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md) [en]
 - [GitLab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) [en]
 - [Коллекция полезных gitignore для всех ситуаций](https://github.com/github/gitignore)
+- [Правила полета на Git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md)
 
 ### Настройки
 - [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
