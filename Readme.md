@@ -105,6 +105,9 @@ Tobias Günther [en]
 - [Работаем с Git: первые шаги в GitHub](https://habr.com/ru/companies/yandex_praktikum/articles/700708/) от 
 Дарьи Меленцовой
 - [Работаем с Git: трудовые будни](https://habr.com/ru/companies/yandex_praktikum/articles/728302/) от Дарьи Меленцовой
+- [GitLab Flow VS Git flow VS GitHub flow](https://yapro.ru/article/6172)
+- [Фундаментальные подходы при работе с Git](https://habr.com/ru/articles/765264/) от 
+Ярослава [@webnetkz](https://habr.com/ru/users/webnetkz/)
 
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
@@ -118,6 +121,8 @@ Tobias Günther [en]
 - [GitLab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) [en]
 - [Коллекция полезных gitignore для всех ситуаций](https://github.com/github/gitignore)
 - [Правила полета на Git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md)
+- [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+- [What is GitLab Flow?](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
 
 ### Настройки
 - [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
