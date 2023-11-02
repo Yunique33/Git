@@ -108,7 +108,12 @@ Tobias Günther [en]
 - [GitLab Flow VS Git flow VS GitHub flow](https://yapro.ru/article/6172)
 - [Фундаментальные подходы при работе с Git](https://habr.com/ru/articles/765264/) от 
 Ярослава [@webnetkz](https://habr.com/ru/users/webnetkz/)
-- [19 Git Tips For Everyday Use](https://techtldr.com/19-git-tips-for-everyday-use/) [en]
+- [19 Git Tips For Everyday Use](https://techtldr.com/19-git-tips-for-everyday-use/) from 
+[TECH TLDR;](https://techtldr.com/) [en]
+- [Getting solid at Git rebase vs. merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
+ from [Christophe Porteneuve](https://medium.com/@porteneuve) [en]
+- [Git Cheat Sheet and Best Practices](https://www.jrebel.com/blog/git-cheat-sheet) from 
+[Simon Maple](https://www.jrebel.com/blog/git-cheat-sheet#authorsimonmaple) [en]
 
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
