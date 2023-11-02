@@ -108,6 +108,7 @@ Tobias Günther [en]
 - [GitLab Flow VS Git flow VS GitHub flow](https://yapro.ru/article/6172)
 - [Фундаментальные подходы при работе с Git](https://habr.com/ru/articles/765264/) от 
 Ярослава [@webnetkz](https://habr.com/ru/users/webnetkz/)
+- [19 Git Tips For Everyday Use](https://techtldr.com/19-git-tips-for-everyday-use/) [en]
 
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
