@@ -121,6 +121,13 @@ Tobias Günther [en]
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
 
+### Плагины
+- [git-extra-commands](https://github.com/unixorn/git-extra-commands) - плагин ZSH, который упаковывает некоторые
+  дополнительные вспомогательные скрипты git.
+- [git-fire](https://github.com/qw3rtman/git-fire) -это плагин Git, который помогает в случае чрезвычайной ситуации, 
+переключаясь в корневой каталог репозитория, добавляя все текущие файлы, фиксируя и отправляя коммиты и все cтеши в 
+новую ветку (чтобы предотвратить конфликты слияния).
+
 ### Ошибки
 - [Самые распространенные ошибки в работе с git. Как исправить?](https://www.youtube.com/watch?v=2aTc37XwSj0) от
   [Front-end Science із Сергієм Пузанковим](https://www.youtube.com/@frontendscience)
@@ -139,6 +146,7 @@ Tobias Günther [en]
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md) [en]
 - [GitLab Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) [en]
 - [Коллекция полезных gitignore для всех ситуаций](https://github.com/github/gitignore)
+- [Git Tips](https://github.com/Imangazaliev/git-tips) - Часто используемые трюки и советы при работе с Git.
 - [Правила полета на Git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md)
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [What is GitLab Flow?](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
