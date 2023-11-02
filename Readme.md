@@ -32,6 +32,8 @@ Scott Chacon [en]
 - [A Guide to Git and Github](https://launchschool.com/books/git) by [Launch School](https://launchschool.com/) [en]
 - [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) by 
 Tobias Günther [en]
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) by 
+[Mary Rose Cook](https://maryrosecook.com/) [en]
 
 ### Интерактивные ресурсы
 - [LearnGitBranching](https://learngitbranching.js.org/)
@@ -51,13 +53,13 @@ Tobias Günther [en]
 - [Основы использования Git](https://itvdn.com/ru/video/basics-using-git) от [ITVDN](https://itvdn.com/ru) [$]
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/) by
 [FrontendMasters](https://frontendmasters.com/) [en] [$]
- - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) from 
+ - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) by
  [Udacity](https://www.udacity.com/) [en]
  - [Practical Git for Everyday Professional Use](https://egghead.io/courses/practical-git-for-everyday-professional-use)
  from [egghead.io](https://egghead.io/) [en]
- - [GitLab CE Tutorials](https://www.leveluptutorials.com/tutorials/gitlab-ce-tutorials) from 
+ - [GitLab CE Tutorials](https://www.leveluptutorials.com/tutorials/gitlab-ce-tutorials) by 
  [leveluptutorials](https://www.leveluptutorials.com/) [en] [$]
- - [Practical Git](https://codecourse.com/watch/practical-git?part=263-untracking-tracked-files) from
+ - [Practical Git](https://codecourse.com/watch/practical-git?part=263-untracking-tracked-files) by
  [Codecourse](https://codecourse.com/) [en] [$]
  - [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/git-complete/) by
  [Udemy](https://www.udemy.com/) [en] [$]
@@ -108,11 +110,11 @@ Tobias Günther [en]
 - [GitLab Flow VS Git flow VS GitHub flow](https://yapro.ru/article/6172)
 - [Фундаментальные подходы при работе с Git](https://habr.com/ru/articles/765264/) от 
 Ярослава [@webnetkz](https://habr.com/ru/users/webnetkz/)
-- [19 Git Tips For Everyday Use](https://techtldr.com/19-git-tips-for-everyday-use/) from 
+- [19 Git Tips For Everyday Use](https://techtldr.com/19-git-tips-for-everyday-use/) by 
 [TECH TLDR;](https://techtldr.com/) [en]
 - [Getting solid at Git rebase vs. merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
  from [Christophe Porteneuve](https://medium.com/@porteneuve) [en]
-- [Git Cheat Sheet and Best Practices](https://www.jrebel.com/blog/git-cheat-sheet) from 
+- [Git Cheat Sheet and Best Practices](https://www.jrebel.com/blog/git-cheat-sheet) by 
 [Simon Maple](https://www.jrebel.com/blog/git-cheat-sheet#authorsimonmaple) [en]
 
 ### Тесты для самопроверки
@@ -139,6 +141,7 @@ Tobias Günther [en]
 - [Правила полета на Git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md)
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [What is GitLab Flow?](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
+- [Git workflow](https://github.com/asmeurer/git-workflow) by [Aaron Meurer](https://github.com/asmeurer) [en]
 
 ### Настройки
 - [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
