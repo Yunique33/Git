@@ -152,6 +152,9 @@ Tobias Günther [en]
 - [What is GitLab Flow?](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
 - [Git workflow](https://github.com/asmeurer/git-workflow) by [Aaron Meurer](https://github.com/asmeurer) [en]
 
+### GUI-клиенты
+- [GitKraken](https://www.gitkraken.com/)
+
 ### Настройки
 - [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
 - [Обновление версии Git для Linux(Ubuntu/Mint)](https://gist.github.com/Yunique33/048ba5153dee39859216ce3b6a15b7cc)
