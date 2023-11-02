@@ -41,6 +41,7 @@ Tobias Günther [en]
 [GitHub](https://github.com/) [en]
 - [Learn Git](https://www.codecademy.com/learn/learn-git#course-landing-page) by 
 [codecademy](https://www.codecademy.com/) [en] [$]
+- [Githug](https://github.com/Gazler/githug) [en] - игра для изучения более общих рабочих процессов Git
 
 ### Курсы
 - [Введение в Git](https://ru.hexlet.io/courses/intro_to_git) - курс от [Хекслет](https://ru.hexlet.io/)
