@@ -121,13 +121,6 @@ Tobias Günther [en]
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
 
-### Плагины
-- [git-extra-commands](https://github.com/unixorn/git-extra-commands) - плагин ZSH, который упаковывает некоторые
-  дополнительные вспомогательные скрипты git.
-- [git-fire](https://github.com/qw3rtman/git-fire) -это плагин Git, который помогает в случае чрезвычайной ситуации, 
-переключаясь в корневой каталог репозитория, добавляя все текущие файлы, фиксируя и отправляя коммиты и все cтеши в 
-новую ветку (чтобы предотвратить конфликты слияния).
-
 ### Ошибки
 - [Самые распространенные ошибки в работе с git. Как исправить?](https://www.youtube.com/watch?v=2aTc37XwSj0) от
   [Front-end Science із Сергієм Пузанковим](https://www.youtube.com/@frontendscience)
@@ -137,6 +130,13 @@ Tobias Günther [en]
   [Флант](https://habr.com/ru/companies/flant/profile/)
 - [Git Tutorial: 10 Common Git Problems and How to Fix Them](https://www.codementor.io/@citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
   from [Michael Kohl](https://www.codementor.io/@citizen428) [en]
+
+### Плагины
+- [git-extra-commands](https://github.com/unixorn/git-extra-commands) - плагин ZSH, который упаковывает некоторые
+  дополнительные вспомогательные скрипты git.
+- [git-fire](https://github.com/qw3rtman/git-fire) -это плагин Git, который помогает в случае чрезвычайной ситуации,
+  переключаясь в корневой каталог репозитория, добавляя все текущие файлы, фиксируя и отправляя коммиты и все cтеши в
+  новую ветку (чтобы предотвратить конфликты слияния).
 
 ### GUI-клиенты
 - [GitKraken](https://www.gitkraken.com/)
