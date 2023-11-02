@@ -138,6 +138,9 @@ Tobias Günther [en]
 - [Git Tutorial: 10 Common Git Problems and How to Fix Them](https://www.codementor.io/@citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd)
   from [Michael Kohl](https://www.codementor.io/@citizen428) [en]
 
+### GUI-клиенты
+- [GitKraken](https://www.gitkraken.com/)
+
 ### Другое
 - [Соглашение по именованию коммитов](https://www.conventionalcommits.org/ru/v1.0.0/)
 - [git - the simple guide](http://up1.github.io/git-guide/index.ru.html)
@@ -151,9 +154,6 @@ Tobias Günther [en]
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [What is GitLab Flow?](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
 - [Git workflow](https://github.com/asmeurer/git-workflow) by [Aaron Meurer](https://github.com/asmeurer) [en]
-
-### GUI-клиенты
-- [GitKraken](https://www.gitkraken.com/)
 
 ### Настройки
 - [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
