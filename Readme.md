@@ -140,6 +140,15 @@ Tobias Günther [en]
 
 ### GUI-клиенты
 - [GitKraken](https://www.gitkraken.com/)
+- [Git Cola](https://git-cola.github.io/)
+- [GitUp](https://gitup.co/)
+- [GitX-dev](https://rowanj.github.io/gitx/)
+- [Sourcetree](https://www.sourcetreeapp.com/)
+- [Tower](https://www.git-tower.com/mac)
+- [Tig](https://jonas.github.io/tig/)
+- [Magit](https://magit.vc/)
+- [Git Extensions](https://gitextensions.github.io/)
+- [Fork](https://git-fork.com/)
 
 ### Другое
 - [Соглашение по именованию коммитов](https://www.conventionalcommits.org/ru/v1.0.0/)
