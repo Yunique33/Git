@@ -140,6 +140,7 @@ Tobias Günther [en]
 
 ### GUI-клиенты
 - [GitKraken](https://www.gitkraken.com/)
+- [GitHub Desktop](https://desktop.github.com/)
 - [Git Cola](https://git-cola.github.io/)
 - [GitUp](https://gitup.co/)
 - [GitX-dev](https://rowanj.github.io/gitx/)
@@ -149,6 +150,9 @@ Tobias Günther [en]
 - [Magit](https://magit.vc/)
 - [Git Extensions](https://gitextensions.github.io/)
 - [Fork](https://git-fork.com/)
+- [Sublime Merge](https://www.sublimemerge.com/)
+- [SmartGit](https://www.syntevo.com/smartgit/)
+- [GitBlade](https://gitblade.com/)
 
 ### Настройки
 - [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
