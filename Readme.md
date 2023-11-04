@@ -121,7 +121,7 @@ Tobias Günther [en]
 ### Тесты для самопроверки
 - [Тест по Git](https://progtask.ru/test-po-git/) от [progtask.ru](https://progtask.ru/)
 
-### Ошибки
+### Разбор типичных ошибок
 - [Самые распространенные ошибки в работе с git. Как исправить?](https://www.youtube.com/watch?v=2aTc37XwSj0) от
   [Front-end Science із Сергієм Пузанковим](https://www.youtube.com/@frontendscience)
 - [Git: распространённые ошибки и способы их исправления](https://habr.com/ru/companies/ruvds/articles/423015/) от
@@ -150,6 +150,10 @@ Tobias Günther [en]
 - [Git Extensions](https://gitextensions.github.io/)
 - [Fork](https://git-fork.com/)
 
+### Настройки
+- [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
+- [Обновление версии Git для Linux(Ubuntu/Mint)](https://gist.github.com/Yunique33/048ba5153dee39859216ce3b6a15b7cc)
+
 ### Другое
 - [Соглашение по именованию коммитов](https://www.conventionalcommits.org/ru/v1.0.0/)
 - [git - the simple guide](http://up1.github.io/git-guide/index.ru.html)
@@ -163,7 +167,3 @@ Tobias Günther [en]
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [What is GitLab Flow?](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
 - [Git workflow](https://github.com/asmeurer/git-workflow) by [Aaron Meurer](https://github.com/asmeurer) [en]
-
-### Настройки
-- [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
-- [Обновление версии Git для Linux(Ubuntu/Mint)](https://gist.github.com/Yunique33/048ba5153dee39859216ce3b6a15b7cc)
