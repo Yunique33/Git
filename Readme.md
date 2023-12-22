@@ -17,6 +17,9 @@ Scott Chacon [en]
 - [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial) by Michael Hartl [en] [$]
 - [Learn Git in a Month of Lunches](https://www.manning.com/books/learn-git-in-a-month-of-lunches) by Rick Umali [en]
 [$]
+- [Head First. Git](https://shp.pub/6urbgn) - Ганди Раджу [$]
+- [Git. Практическое руководство. Управление и контроль версий в разработке программного обеспечения](https://shp.pub/6urbie) -
+  Фишерман Л.В. [$]
 
 ### Обучающие ресурсы
 - [GitHowTo](https://githowto.com/ru)
