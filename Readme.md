@@ -2,7 +2,8 @@
 
 ### Книги
 - [Pro Git](http://git-scm.com/book/ru/v2) by Scott Chacon and Ben Straub
-- [Git для профессионального программиста](https://shp.pub/6urbam) - С.Чакон, Б.Штрауб [$] 
+- [Git для профессионального программиста](https://www.ozon.ru/product/git-dlya-professionalnogo-programmista-chakon-skott-shtraub-ben-211432911/) - 
+С.Чакон, Б.Штрауб [$] 
 (_printed version of [Pro Git](http://git-scm.com/book/ru/v2)_) 
 - [Git In The Trenches](http://cbx33.github.io/gitt/download.html) by Peter Savage [en]
 - [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) by 
