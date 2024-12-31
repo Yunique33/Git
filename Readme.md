@@ -54,7 +54,6 @@ Tobias Günther [en]
 [Ильи Кантора](https://learn.javascript.ru/)
 - [Курс по Git и Github](https://webformyself.com/category/premium/javascript-premium/gitpremium/) от 
 [WebForMySelf](https://webformyself.com/) [$]
-- [Курс: Изучаем Git И GitHub](https://swiftbook.ru/contents/git-and-github/) от [Swiftbook](https://swiftbook.ru/)
 - [Основы использования Git](https://itvdn.com/ru/video/basics-using-git) от [ITVDN](https://itvdn.com/ru) [$]
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/) by
 [FrontendMasters](https://frontendmasters.com/) [en] [$]
