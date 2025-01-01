@@ -69,7 +69,7 @@ Tobias Günther [en]
  [Udemy](https://www.udemy.com/) [en] [$]
  - [Введение в Git: настройка и основные команды](https://selectel.ru/blog/tutorials/git-setup-and-common-commands/) от
 [Selectel](https://selectel.ru/)
- - [Основы работы с Git](https://practicum.yandex.ru/git-basics/) от [Яндекс Практикум](https://practicum.yandex.ru/)
+ - [Основы работы с Git](https://practicum.yandex.ru/profile/git-basics/) от [Яндекс Практикум](https://practicum.yandex.ru/)
 
 ### Скринкасты
 - [Git - для новичков](https://www.youtube.com/watch?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&v=PEKN8NtBDQ0) от 
