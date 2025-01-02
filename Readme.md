@@ -77,7 +77,7 @@ Tobias Günther [en]
 - [Скринкаст Git: разное](https://www.youtube.com/watch?v=lHacJuru1bc&list=PLDyvV36pndZEB7kWWocU4QSn-G78LoaEE) от 
 [Ильи Кантора](https://learn.javascript.ru/)
 - [Базовый курс по Git](https://www.youtube.com/watch?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR&v=en6gms6e54Q) от
-[Devcolibri](https://devcolibri.com/)
+[Devcolibri](https://www.youtube.com/devcolibri)
 - [Git. Система контроля версий](https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g) от
 [Дмитрия Афанасьева](https://www.youtube.com/channel/UCLwG2LUXE5-o5q-8uvlV1ig)
 - [Изучение GitHub в одном видео уроке за 15 минут!](https://itproger.com/course/one-lesson/6) от
