@@ -112,8 +112,6 @@ Tobias Günther [en]
 Дарьи Меленцовой
 - [Работаем с Git: трудовые будни](https://habr.com/ru/companies/yandex_praktikum/articles/728302/) от Дарьи Меленцовой
 - [GitLab Flow VS Git flow VS GitHub flow](https://yapro.ru/article/6172)
-- [Фундаментальные подходы при работе с Git](https://habr.com/ru/articles/765264/) от 
-Ярослава [@webnetkz](https://habr.com/ru/users/webnetkz/)
 - [19 Git Tips For Everyday Use](https://techtldr.com/19-git-tips-for-everyday-use/) by 
 [TECH TLDR;](https://techtldr.com/) [en]
 - [Getting solid at Git rebase vs. merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
