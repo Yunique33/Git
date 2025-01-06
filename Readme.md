@@ -97,7 +97,11 @@ Tobias Günther [en]
 - [Git — инструмент для совместной работы с нуля и до регламента в команде](https://www.youtube.com/watch?v=XfpNNPo5ypk) 
 от Александра Васильева
 - [Git for beginners](https://www.youtube.com/watch?v=6i0Wg-Pohg8) от 
-[Rolling Scopes School](https://www.youtube.com/@RollingScopesSchool)
+[Rolling Scopes School](https://www.youtube.com/@RollingScopesSchool) [en]
+- [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY) доклад от одного из создателей 
+Github [en]
+- [So You Think You Know Git Part 2 - DevWorld 2024](https://www.youtube.com/watch?v=Md44rcw13k4) еще один доклад от 
+одного из создателей Github [en]
 
 ### Подкасты
 - [GitMinutes](http://www.gitminutes.com/) [en]
@@ -154,6 +158,7 @@ Tobias Günther [en]
 - [Sublime Merge](https://www.sublimemerge.com/)
 - [SmartGit](https://www.syntevo.com/smartgit/)
 - [GitBlade](https://gitblade.com/)
+- [GitButler](https://gitbutler.com/)
 
 ### Настройки
 - [.gitconfig файл с сокращениями git команд(aliases)](https://gist.github.com/Yunique33/bd4c7e053e23fe6806088c3255e83073)
