@@ -31,7 +31,7 @@ Scott Chacon [en]
 - [Git: наглядная справка](http://marklodato.github.io/visual-git-guide/index-ru.html) by Mark Lodato
 - [Руководство по Git](http://proselyte.net/tutorials/git) - Евгений Сулейманов
 - [Справочник по Git](https://guides.github.com/introduction/git-handbook/) от [GitHub](https://github.com/) [en]
-- [Becomea git guru](https://www.atlassian.com/git/tutorials) by [Bitbucket](https://bitbucket.org/) [en]
+- [Git Tutorials](https://www.atlassian.com/git/tutorials) by [Bitbucket](https://bitbucket.org/) [en]
 - [Git Workflows](https://github.com/skwp/git-workflows-book) by Yan Pritzker [en]
 - [A Guide to Git and Github](https://launchschool.com/books/git) by [Launch School](https://launchschool.com/) [en]
 - [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction) by 
