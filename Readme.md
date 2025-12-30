@@ -84,6 +84,8 @@ Tobias Günther [en]
 [The Digital Craft](https://thedigitalcraft.com/) [en]
 - [Уроки Git+GitHub](https://www.youtube.com/watch?v=JdUzxh8miQw&list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH) от 
 [ITDoctor](https://www.youtube.com/c/ITDoctor)
+- [Основы Git и GitHub. Курс для начинающих.](https://www.youtube.com/watch?v=eMETcugEX_c) от 
+[Александра Ламкова](https://www.youtube.com/@AleksanderLamkov)
 - [Что такое Git за 8 минут: Объясняем на пальцах](https://www.youtube.com/watch?v=G4f9OH4IQE8&ab_channel=ListenIT) от
 [Listen IT](https://www.youtube.com/@ListenIT_channel)
 - [Что такое GIT простым языком? Как работает, основные команды GIT](https://youtu.be/buygCuSqBsA?si=I-9ws6ml55iDMlMB) 
