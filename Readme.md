@@ -69,7 +69,7 @@ Tobias Günther [en]
 
 ### Скринкасты
 - [Git - для новичков](https://www.youtube.com/watch?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&v=PEKN8NtBDQ0) от 
-[LoftBlog](https://loftblog.ru/)
+[LoftBlog](https://loftschool.com/)
 - [Курc по Git](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) от
   [Ильи Кантора](https://learn.javascript.ru/)
 - [Скринкаст Git: разное](https://www.youtube.com/watch?v=lHacJuru1bc&list=PLDyvV36pndZEB7kWWocU4QSn-G78LoaEE) от 
