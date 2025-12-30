@@ -50,8 +50,6 @@ Tobias Günther [en]
 ### Курсы
 - [Введение в Git](https://ru.hexlet.io/courses/intro_to_git) - курс от [Хекслет](https://ru.hexlet.io/)
 - [Git. Быстрый старт](https://geekbrains.ru/courses/1117) - курс от [geekbrains.ru](https://geekbrains.ru)
-- [Курc по Git](https://learn.javascript.ru/screencast/git#skip-add) от 
-[Ильи Кантора](https://learn.javascript.ru/)
 - [Курс по Git и Github](https://webformyself.com/category/premium/javascript-premium/gitpremium/) от 
 [WebForMySelf](https://webformyself.com/) [$]
 - [Основы использования Git](https://itvdn.com/ru/video/basics-using-git) от [ITVDN](https://itvdn.com/ru) [$]
@@ -74,6 +72,8 @@ Tobias Günther [en]
 ### Скринкасты
 - [Git - для новичков](https://www.youtube.com/watch?list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb&v=PEKN8NtBDQ0) от 
 [LoftBlog](https://loftblog.ru/)
+- [Курc по Git](https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) от
+  [Ильи Кантора](https://learn.javascript.ru/)
 - [Скринкаст Git: разное](https://www.youtube.com/watch?v=lHacJuru1bc&list=PLDyvV36pndZEB7kWWocU4QSn-G78LoaEE) от 
 [Ильи Кантора](https://learn.javascript.ru/)
 - [Базовый курс по Git](https://www.youtube.com/watch?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR&v=en6gms6e54Q) от
